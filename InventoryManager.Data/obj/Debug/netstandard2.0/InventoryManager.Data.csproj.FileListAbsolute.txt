@@ -1,0 +1,40 @@
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.deps.json
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.dll
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.pdb
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csprojAssemblyReference.cache
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.AssemblyInfoInputs.cache
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.AssemblyInfo.cs
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.dll
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.pdb
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csproj.Fody.CopyLocal.cache
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.deps.json
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.dll
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.pdb
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csprojAssemblyReference.cache
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.AssemblyInfoInputs.cache
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.AssemblyInfo.cs
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csproj.Fody.CopyLocal.cache
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.dll
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.pdb
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.deps.json
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.dll
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.pdb
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csprojAssemblyReference.cache
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.AssemblyInfoInputs.cache
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.AssemblyInfo.cs
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csproj.Fody.CopyLocal.cache
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.dll
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.pdb
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.deps.json
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.dll
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\bin\Debug\netstandard2.0\InventoryManager.Data.pdb
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csprojAssemblyReference.cache
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.AssemblyInfoInputs.cache
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.AssemblyInfo.cs
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csproj.Fody.CopyLocal.cache
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.dll
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.pdb

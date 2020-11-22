@@ -1,0 +1,79 @@
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.WinForms.exe.config
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.WinForms.exe
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.WinForms.pdb
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csprojAssemblyReference.cache
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Properties.Resources.resources
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.GenerateResource.cache
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.exe
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.pdb
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.Data.dll
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.Data.pdb
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.CopyComplete
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\World.json
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.Fody.CopyLocal.cache
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Forms.AddPlayerForm.resources
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Forms.MainForm.resources
+C:\Users\willi\.Net Tutorials\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Forms.AddItemForm.resources
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\World.json
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.WinForms.exe.config
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.WinForms.exe
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.WinForms.pdb
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.Data.dll
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.Data.pdb
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csprojAssemblyReference.cache
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Forms.AddItemForm.resources
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Forms.AddPlayerForm.resources
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Forms.MainForm.resources
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Properties.Resources.resources
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.GenerateResource.cache
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.Fody.CopyLocal.cache
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.CopyComplete
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.exe
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.pdb
+C:\Users\willi\Downloads\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Controls.EquippedItemControl.resources
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\World.json
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.WinForms.exe.config
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.WinForms.exe
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.WinForms.pdb
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.Data.dll
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.Data.pdb
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csprojAssemblyReference.cache
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Controls.EquippedItemControl.resources
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Forms.AddItemForm.resources
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Forms.AddPlayerForm.resources
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Forms.MainForm.resources
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Properties.Resources.resources
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.GenerateResource.cache
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.Fody.CopyLocal.cache
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.CopyComplete
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.exe
+C:\Users\willi\Downloads\Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.pdb
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\World.json
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.WinForms.exe.config
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.WinForms.exe
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.WinForms.pdb
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.Data.dll
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\InventoryManager.Data.pdb
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csprojAssemblyReference.cache
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Controls.EquippedItemControl.resources
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Forms.AddItemForm.resources
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Forms.AddPlayerForm.resources
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Forms.MainForm.resources
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.Properties.Resources.resources
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.GenerateResource.cache
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.Fody.CopyLocal.cache
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.csproj.CopyComplete
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.exe
+C:\Users\willi\Downloads\2nd Modified Inventory Manager\InventoryManagerV2\InventoryManager.WinForms\obj\Debug\InventoryManager.WinForms.pdb
